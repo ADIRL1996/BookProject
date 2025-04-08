@@ -16,17 +16,8 @@ This is a simple **Contact Book Console Application** written in **C++**. It all
 - Menu-driven interface with clear prompts
 - Simple and clean command-line interaction
 
----
-
 ## 🛠 Technologies
 
 - **C++ STL** (`<vector>`, `<string>`, `<algorithm>`)
 - **Standard I/O** (`<iostream>`)
 
----
-
-## 🔧 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/contact-book-cpp.git
